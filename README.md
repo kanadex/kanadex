@@ -29,10 +29,6 @@ Android 开发经常在写，它们目前主要在私有仓库
 
 **[node_status_server_open_source](https://github.com/xfy2412/node_status_server_open_source)** — 轻量级服务器状态实时监控。 `JavaScript`
 
-## 贡献
-
-[![Kanadex's GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=kanadex&theme=github-compact&hide_border=true&area=true)](https://github.com/kanadex)
-
 ---
 
 > 高三重读中，代码是考试之外的第二人生
