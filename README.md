@@ -33,7 +33,7 @@
   <br/>
   让 Android 9 在各种安卓设备上运行。 `C/C++`
 
-- **[VerseBox A15 Runtime ![Stars](https://img.shields.io/github/stars/GeometryOS/VerseBox-guest-runtime-a9?label=Stars)](https://github.com/GeometryOS/VerseBox-guest-runtime-a15)**
+- **[VerseBox A15 Runtime ![Stars](https://img.shields.io/github/stars/GeometryOS/VerseBox-guest-runtime-a15?label=Stars)](https://github.com/GeometryOS/VerseBox-guest-runtime-a15)**
   <br/>
   让 Android 15 在各种安卓设备上运行。 `C/C++`
   
