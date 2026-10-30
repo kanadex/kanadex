@@ -29,14 +29,14 @@
   <br/>
   Velocity 代理端群服互通插件，支持 Web 面板管理与开放 API 拓展功能。暂未开源发布。
 
-- **[VerseBox A9 Runtime ![Stars](https://img.shields.io/github/stars/GeometryOS/VerseBox-guest-runtime-a9?label=Stars)](https://github.com/GeometryOS/VerseBox-guest-runtime-a9)**
+- **[GeometryOS/VerseBox A9 Runtime ![Stars](https://img.shields.io/github/stars/GeometryOS/VerseBox-guest-runtime-a9?label=Stars)](https://github.com/GeometryOS/VerseBox-guest-runtime-a9)**
   <br/>
   让 Android 9 在各种安卓设备上运行。 `C/C++`
 
-- **[VerseBox A15 Runtime ![Stars](https://img.shields.io/github/stars/GeometryOS/VerseBox-guest-runtime-a15?label=Stars)](https://github.com/GeometryOS/VerseBox-guest-runtime-a15)**
+- **[GeometryOS/VerseBox A15 Runtime ![Stars](https://img.shields.io/github/stars/GeometryOS/VerseBox-guest-runtime-a15?label=Stars)](https://github.com/GeometryOS/VerseBox-guest-runtime-a15)**
   <br/>
   让 Android 15 在各种安卓设备上运行。 `C/C++`
   
-- **[node_status_server_open_source ![Stars](https://img.shields.io/github/stars/xfy2412/node_status_server_open_source?label=Stars)](https://github.com/xfy2412/node_status_server_open_source)**
+- **[xfy2412/node_status_server_open_source ![Stars](https://img.shields.io/github/stars/xfy2412/node_status_server_open_source?label=Stars)](https://github.com/xfy2412/node_status_server_open_source)**
   <br/>
   轻量级服务器状态实时监控。 `JavaScript`
