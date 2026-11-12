@@ -2,6 +2,8 @@
 
 你好，我是 Kanadex，一个高三重读学生。热爱编程，平时喜欢做一些让自己开心的神秘项目。
 
+[kanadex.github.io](https://kanadex.github.io)
+
 ## 技术栈
 
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
