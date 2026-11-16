@@ -1,12 +1,26 @@
 # Kanadex
 
-你好，我是 Kanadex，一个高三重读学生。热爱编程，平时喜欢做一些让自己开心的神秘项目。
+👋你好，我是 Kanadex，一个高三重读学生。热爱编程，平时喜欢做一些让自己开心的神秘项目。
 
 [kanadex.github.io](https://kanadex.github.io)
 
-## 技术栈
+## 我在 Tokens 中的活跃度：
+[![Tokens Stats](https://tokens.ci/api/embed/kanadex/svg?template=graph&color=pink&today=1&rank=percent&tokens=compact&cost=compact)](https://tokens.ci/u/kanadex)
 
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
+## 开发环境
+
+### 操作系统
+
+![macOS 26](https://img.shields.io/badge/macOS-26-000000?style=flat-square&logo=apple&logoColor=white)
+![Ubuntu 26.04 LTS](https://img.shields.io/badge/Ubuntu-26.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows11&logoColor=white)
+
+### 编程语言与技术栈
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Fluent UI](https://img.shields.io/badge/Fluent%20UI-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -16,6 +30,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
 
 ## 项目
 
