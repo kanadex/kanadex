@@ -11,9 +11,9 @@
 
 ### 操作系统
 
-![macOS 26](https://img.shields.io/badge/macOS-26-000000?style=flat-square&logo=apple&logoColor=white)
-![Ubuntu 26.04 LTS](https://img.shields.io/badge/Ubuntu-26.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![macOS 26](https://img.shields.io/badge/macOS-26-000000?style=flat-square&logo=apple&logoColor=white&labelColor=000000)
+![Ubuntu 26.04 LTS](https://img.shields.io/badge/Ubuntu-26.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white&labelColor=E95420)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows11&logoColor=white&labelColor=0078D4)
 
 ### 编程语言与技术栈
 
