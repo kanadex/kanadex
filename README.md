@@ -1,6 +1,7 @@
 # Kanadex
 
-👋你好，我是 Kanadex，一个高三重读学生。热爱编程，平时喜欢做一些让自己开心的神秘项目。
+Hi there👋
+我是 Kanadex，一个高三重读学生。热爱编程，平时喜欢做一些让自己开心的神秘项目。
 
 [kanadex.github.io](https://kanadex.github.io)
 
